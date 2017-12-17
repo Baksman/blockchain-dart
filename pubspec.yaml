@@ -1,0 +1,17 @@
+name: blockchain
+description: >
+  > A Sample blockchain based off of "Learn Blockchains
+  > by Building One" by Daniel van Flymen
+version: 0.0.1
+author: John Ryan <john.p.ryan4@gmail.com>
+
+dependencies:
+  crypto: ^2.0.0
+  hex: ^0.1.1
+  uuid: ^0.5.3
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
+dev_dependencies:
+  test: ^0.12.0
